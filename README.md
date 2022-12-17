@@ -1,6 +1,6 @@
 # IntroToDataScience
 
-The content of this repo were developed in a subject called "Python to DataScience" Ministered by [MSc. Rosana Áurea Tonetti Massahud](http://lattes.cnpq.br/7365724131999035) at CEFET-MG.
+The content of this repo were developed in a subject called "Python to DataScience" taught by [MSc. Rosana Áurea Tonetti Massahud](http://lattes.cnpq.br/7365724131999035) at CEFET-MG.
 
 -----------------
 ### 1st Work - # Alcohol Effects on Study analysis
